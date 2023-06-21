@@ -1,2 +1,0 @@
-- Simpan, Edit, Hapus pakai procedure Clear
-- 
