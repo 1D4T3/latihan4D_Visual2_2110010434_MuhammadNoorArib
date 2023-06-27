@@ -2,3 +2,4 @@
 2110010434 Muhammad Noor Arib
 Tugas Pengganti UTS
 Pemrograman Visual 2
+Kelas 4D Reguler TI Pagi Banjarmasin
