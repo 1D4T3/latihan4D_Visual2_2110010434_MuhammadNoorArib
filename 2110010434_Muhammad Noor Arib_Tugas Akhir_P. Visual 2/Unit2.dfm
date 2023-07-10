@@ -1,6 +1,6 @@
 object login: Tlogin
-  Left = 470
-  Top = 251
+  Left = 420
+  Top = 210
   Width = 536
   Height = 307
   Caption = 'login'
